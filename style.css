@@ -1,0 +1,60 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+p{
+    color: dimgray;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 20px;
+}
+.name-highlight{
+    color: rgb(189, 17, 17);
+}
+.hobby-highlight{
+    color: rgb(102, 7, 15);
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+.bg-header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.bg-footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(228, 150, 5);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.single-hobby{
+    box-shadow: 10px 10px 40px gray;
+}
+.hobby-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
