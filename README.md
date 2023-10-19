@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **soikot.shahriaar@gmail.com**
 
-- ⚡ Fun fact **Sometimes I Hate Coding**
+- ⚡ Fun fact **I Hate Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
