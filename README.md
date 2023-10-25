@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python Automation**
 
-- 💬 Ask me about **JavaScript, Python, PHP**
+- 💬 Ask me about **Python, JavaScript, PHP**
 
 - 📫 Reach me at **soikot.shahriaar@gmail.com**
 
