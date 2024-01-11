@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/soikot-shahriaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soikot-shahriaar" height="30" width="40" /></a>
 <a href="https://fb.com/soikot.shahriaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soikot.shahriaar" height="30" width="40" /></a>
-<a href="https://instagram.com/soikot.shahriaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soikot.shahriaar" height="30" width="40" /></a>
+<a href="https://instagram.com/soikot_shahriaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soikot.shahriaar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
