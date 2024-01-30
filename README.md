@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soikot-shahriaar&label=Profile%20views&color=0e75b6&style=flat" alt="soikot-shahriaar" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development Projects**
+- 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **Python Automation**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Python, JavaScript, PHP**
+- 💬 Ask me about **JavaScript, PHP, Python**
 
 - 📫 Reach me at **soikot.shahriaar@gmail.com**
 
