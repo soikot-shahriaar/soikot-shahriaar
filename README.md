@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soikot Shahriar</h1>
-<h3 align="center">{a Computer Science and Engineering student from Dhaka, Bangladesh}</h3>
-
+<h3 align="center">a Computer Science and Engineering student from Dhaka, Bangladesh</h3>
 
 <img align="right" alt="Coding" width="460" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soikot-shahriaar&label=Profile%20views&color=0e75b6&style=flat" alt="soikot-shahriaar" /> </p>
 
 - 🔭 I’m currently working on **Web Development Projects**
 
