@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="460" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soikot-shahriaar&label=Profile%20views&color=0e75b6&style=flat" alt="soikot-shahriaar" /> </p>
 
 - 🔭 I’m currently working on **Web Development Projects**
 
