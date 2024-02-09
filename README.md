@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **JavaScript, PHP, Python**
+- 💬 Ask me about **C, C++, JavaScript**
 
 - 📫 Reach me at **soikot.shahriaar@gmail.com**
 
