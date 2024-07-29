@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C, C++, JavaScript**
+- 💬 Ask me about **PHP**
 
 - 📫 Reach me at **soikot.shahriaar@gmail.com**
 
