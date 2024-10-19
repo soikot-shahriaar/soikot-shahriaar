@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="460" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
 - 🌱 I’m currently learning **Java**
 
