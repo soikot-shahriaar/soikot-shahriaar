@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soikot Shahriar</h1>
 <!-- <h3 align="center">a Computer Science and Engineering student from Dhaka, Bangladesh</h3> -->
-<p align="center">I’m Soikot Shahriar, a 21-year-old <strong>Junior Full Stack Developer</strong> from Dhaka, Bangladesh, studying <strong>Computer Science and Engineering</strong>. I’m skilled in HTML, CSS, Bootstrap, Tailwind, JavaScript, jQuery, PHP, MySQL, C, C++, Java, Python, as well as data structures, algorithms, and OOP. Passionate about learning and building innovative projects! 🌱</p>
+<p align="center">I’m Soikot Shahriar, a 21-year-old <strong>Junior Full Stack Developer</strong> from Dhaka, Bangladesh, studying <strong>Computer Science and Engineering</strong>. I’m skilled in HTML, CSS, Bootstrap, Tailwind, JavaScript, jQuery, PHP, MySQLi, C, C++, Java, Python, as well as data structures, algorithms, and OOP. Passionate about learning and building innovative projects! 🌱</p>
 
 <img align="right" alt="Coding" height="300"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
