@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development Projects**
 
-- 🌱 I’m currently learning **Java**
-
 - 💬 Ask me about **PHP**
 
 - 📫 Reach me at **soikot.shahriaar@gmail.com**
