@@ -7,11 +7,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="450" height="340" style="border-radius: 10px; max-width: 100%;"/>
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm Soikot Shahriar, a **Full Stack Developer** from Dhaka, Bangladesh, currently studying **Computer Science and Engineering**. I'm passionate about building innovative web applications and solving complex problems through code.
 
-- 🔭 Currently working on **Full Stack Web Development Projects**
+- 🚀 Currently working on **Full Stack Web Development Projects**
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about **PHP, JavaScript, and Web Development**
 - ⚡ Fun fact: **I love programming only when it works!** 😄
@@ -34,12 +34,14 @@ I'm Soikot Shahriar, a **Full Stack Developer** from Dhaka, Bangladesh, currentl
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQLi](https://img.shields.io/badge/MySQLi-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Tools & Others
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Core Competencies
@@ -66,10 +68,9 @@ I'm Soikot Shahriar, a **Full Stack Developer** from Dhaka, Bangladesh, currentl
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soikot.shahriaar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/soikot-shahriaar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/soikot.shahriaar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soikot_shahriaar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soikot-shahriaar)
 
 </div>
 
