@@ -41,8 +41,10 @@ I'm Soikot Shahriar, a **Full Stack Developer** from Dhaka, Bangladesh, currentl
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Flex](https://img.shields.io/badge/Flex-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![Bison](https://img.shields.io/badge/Bison-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### Core Competencies
 - **Data Structures & Algorithms**
